@@ -10,7 +10,7 @@ Code for create Machine learning model: [https://colab.research.google.com/drive
 
 # Discription
 
-Web Application integrated with Machine learning for predicted proability of Arrhythmia that symtoms in circular system and make cardiac fast or slow beat.
+Web Application integrated with Machine learning for predicted proability of Arrhythmia that symtoms in circular system and make cardiac fast or slow beat from Electrocardiogram (ECG).
 
 This project use PHP, Javascript, HTML, CSS, SQL, and Python
 
