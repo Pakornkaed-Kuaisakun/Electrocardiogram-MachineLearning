@@ -1,0 +1,11 @@
+{
+    "name": "ECGWebApplication",
+    "short_name": "ECGWebApp",
+    "start_url": ".",
+    "display": "minimal-ui",
+    "background_color": "#FFFFFF",
+    "description": "This website can help you and manage your was better.",
+    "lang": "en",
+    "theme_color": "#FFFFFF",
+    "icons": [{}]
+}
