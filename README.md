@@ -3,7 +3,9 @@
 Title:  This project is for M5 final project in Mahidol Wittayanusorn
 
 Team: 1. Pakornkaed Kuaisakun  - Code leader
+
       2. Athit Sukliyan        - Code Assistants
+      
       3. Nitiya Bunmala        - Documents
       
 Code for create Machine learning model: [https://colab.research.google.com/drive/16YS7XWZC5e3CVMIMlXnTW4J0fbyV78Fr?usp=sharing]
