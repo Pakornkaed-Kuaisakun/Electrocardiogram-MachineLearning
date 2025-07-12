@@ -19,6 +19,10 @@ This project use PHP, Javascript, HTML, CSS, SQL, and Python
 ```python
 pip install numpy, os, pandas, time, datetime, seaborn, matplotlib, sklearn==1.2.0, tensorflow, keras, joblib, xgboost
 ```
+# License
+
+[MIT](/LICENSE)
+
 
 # Model
 
